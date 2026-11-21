@@ -2,14 +2,14 @@
   "metadata": {
     "work_key": "trove24101368b",
     "title": "瘋疾自投醫院",
-    "edition": "0.1.0",
+    "edition": "0.2.0",
     "language": "lzh",
     "shelfmark": "Tung Wah Times, 1925-11-28, p. 7, NLA news-page24101368",
     "reading_order": "source columns, ordered as printed",
     "title_policy": "Stand-alone headings in extras, inline ones in their original column",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "dataset_title": "瘋疾自投醫院（《東華報》1925-11-28 第7版，澳洲國家圖書館） / Feng ji zi tou yi yuan [A Man Admits Himself to Hospital]: Transcription Dataset",
-    "review_status": "initial-transcription",
+    "review_status": "targeted-image-adjudication",
     "editor": {
       "name": "Chu, Chen-Yu",
       "orcid": "0009-0003-9738-6914"
@@ -26,13 +26,13 @@
               "text": "本埠警察。。聞有瘋疾嫌疑之華人某"
             },
             {
-              "text": "甲。。由加立頓埠來抵雪梨。。經即四"
+              "text": "甲。。由加立頓埠來抵雪□。。經卽四"
             },
             {
-              "text": "出偵探其人蹤跡。。本月廿二號早。。"
+              "text": "出查探其人蹤跡。。本月廿二號早。。"
             },
             {
-              "text": "探悉某甲寓於羅士啤菜園內。。前往"
+              "text": "探悉某甲寓於羅士啤菜園內。。卽往"
             },
             {
               "text": "搜查。。他適出外。。至四點鐘。。警察"
@@ -56,23 +56,53 @@
       "issues": [
         {
           "side": "single",
-          "column": 2,
-          "context": "雪梨",
-          "candidates": [
-            "雪梨",
-            "雪□"
-          ],
-          "note": "梨在墨白處只餘幾點筆痕；據可見及同篇地名暫讀，仍標疑。"
-        },
-        {
-          "side": "single",
           "column": 4,
           "context": "羅士啤",
           "candidates": [
             "羅士啤",
             "羅十啤"
           ],
-          "note": "地名音譯中第二字橫線數量難判。"
+          "note": "地名音譯中第二字橫線數量難判。",
+          "review_note": "中音譯字筆線細；有第二短橫時偏士。"
+        },
+        {
+          "side": "single",
+          "column": 2,
+          "context": "雪□",
+          "candidates": [
+            "雪梨"
+          ],
+          "note": "末字缺失；雪梨為同文候讀。"
+        },
+        {
+          "side": "single",
+          "column": 4,
+          "context": "卽往",
+          "candidates": [
+            "卽往",
+            "前往"
+          ],
+          "note": "回圖卽形較可能，字墨半淡。"
+        },
+        {
+          "side": "single",
+          "column": 5,
+          "context": "搜查",
+          "candidates": [
+            "搜查",
+            "搜査"
+          ],
+          "note": "查字下構似且，初讀保留編碼並列異體。"
+        },
+        {
+          "side": "single",
+          "column": 7,
+          "context": "啤防疫醫院",
+          "candidates": [
+            "啤防疫醫院",
+            "灣防疫醫院"
+          ],
+          "note": "最末區首字右部可見卑式橫直，左偏口樣；雖同院另件作灣，保留本件可見形。"
         }
       ],
       "observations": "第七版《本洲新聞》頂段左端六欄，末欄「列度」接本版下一橫段右端第一欄「啤防疫醫院云」，兩區共七欄。下一題水手案另起。與本期另一則同述加立頓與雪梨，兩篇相互關係宜交代。",

@@ -1,0 +1,98 @@
+{
+  "terminology": "一筆修訂可包含同欄多字；依底本採用的修訂及仍待判的位置保留原圖入口。",
+  "changed_locations": 3,
+  "changes": [
+    {
+      "image": 1,
+      "side": "single",
+      "column": 2,
+      "kind": "main",
+      "op": "replace",
+      "before": "甲。。由加立頓埠來抵雪梨。。經即四",
+      "after": "甲。。由加立頓埠來抵雪□。。經卽四",
+      "reason": "梨位只見零星孤點，保留缺字，不以同刊語義補定。 右分部靠邊及筆勢與卽較合，從獨立讀。",
+      "source_bbox": [
+        961,
+        188,
+        2653,
+        1098
+      ],
+      "source_image_sha256": "8362876b5a10e0180fa6c7685bdf1c4d528f93665948672f1819ea741809b91e",
+      "canvas": "https://trove.nla.gov.au/newspaper/page/24101368"
+    },
+    {
+      "image": 1,
+      "side": "single",
+      "column": 3,
+      "kind": "main",
+      "op": "replace",
+      "before": "出偵探其人蹤跡。。本月廿二號早。。",
+      "after": "出查探其人蹤跡。。本月廿二號早。。",
+      "reason": "回圖該字首部木形，下見橫框，未見人旁，依獨立讀。",
+      "source_bbox": [
+        961,
+        188,
+        2653,
+        1098
+      ],
+      "source_image_sha256": "8362876b5a10e0180fa6c7685bdf1c4d528f93665948672f1819ea741809b91e",
+      "canvas": "https://trove.nla.gov.au/newspaper/page/24101368"
+    },
+    {
+      "image": 1,
+      "side": "single",
+      "column": 4,
+      "kind": "main",
+      "op": "replace",
+      "before": "探悉某甲寓於羅士啤菜園內。。前往",
+      "after": "探悉某甲寓於羅士啤菜園內。。卽往",
+      "reason": "放大可見近卽之左部折筆，前字上端分叉不明；保留兩讀。",
+      "source_bbox": [
+        961,
+        188,
+        2653,
+        1098
+      ],
+      "source_image_sha256": "8362876b5a10e0180fa6c7685bdf1c4d528f93665948672f1819ea741809b91e",
+      "canvas": "https://trove.nla.gov.au/newspaper/page/24101368"
+    }
+  ],
+  "differences_for_future_review": [
+    {
+      "image": 1,
+      "side": "single",
+      "column": 4,
+      "canvas_id": "https://trove.nla.gov.au/newspaper/page/24101368",
+      "status": "保留疑讀"
+    },
+    {
+      "image": 1,
+      "side": "single",
+      "column": 2,
+      "canvas_id": "https://trove.nla.gov.au/newspaper/page/24101368",
+      "status": "保留疑讀"
+    },
+    {
+      "image": 1,
+      "side": "single",
+      "column": 4,
+      "canvas_id": "https://trove.nla.gov.au/newspaper/page/24101368",
+      "status": "保留疑讀"
+    },
+    {
+      "image": 1,
+      "side": "single",
+      "column": 5,
+      "canvas_id": "https://trove.nla.gov.au/newspaper/page/24101368",
+      "status": "保留疑讀"
+    },
+    {
+      "image": 1,
+      "side": "single",
+      "column": 7,
+      "canvas_id": "https://trove.nla.gov.au/newspaper/page/24101368",
+      "status": "保留疑讀"
+    }
+  ],
+  "retained_readings": []
+}
