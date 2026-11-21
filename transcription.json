@@ -1,0 +1,112 @@
+{
+  "metadata": {
+    "work_key": "trove24101368b",
+    "title": "瘋疾自投醫院",
+    "edition": "0.1.0",
+    "language": "lzh",
+    "shelfmark": "Tung Wah Times, 1925-11-28, p. 7, NLA news-page24101368",
+    "reading_order": "source columns, ordered as printed",
+    "title_policy": "Stand-alone headings in extras, inline ones in their original column",
+    "version": "0.1.0",
+    "dataset_title": "瘋疾自投醫院（《東華報》1925-11-28 第7版，澳洲國家圖書館） / Feng ji zi tou yi yuan [A Man Admits Himself to Hospital]: Transcription Dataset",
+    "review_status": "initial-transcription",
+    "editor": {
+      "name": "Chu, Chen-Yu",
+      "orcid": "0009-0003-9738-6914"
+    }
+  },
+  "pages": [
+    {
+      "image": 1,
+      "sides": [
+        {
+          "side": "single",
+          "columns": [
+            {
+              "text": "本埠警察。。聞有瘋疾嫌疑之華人某"
+            },
+            {
+              "text": "甲。。由加立頓埠來抵雪梨。。經即四"
+            },
+            {
+              "text": "出偵探其人蹤跡。。本月廿二號早。。"
+            },
+            {
+              "text": "探悉某甲寓於羅士啤菜園內。。前往"
+            },
+            {
+              "text": "搜查。。他適出外。。至四點鐘。。警察"
+            },
+            {
+              "text": "又至該園。。而某甲已先行投入列度"
+            },
+            {
+              "text": "啤防疫醫院云。。"
+            }
+          ],
+          "extras": [
+            {
+              "type": "article-title",
+              "text": "瘋疾自投醫院",
+              "location": "正文右側大字獨立題頭"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "single",
+          "column": 2,
+          "context": "雪梨",
+          "candidates": [
+            "雪梨",
+            "雪□"
+          ],
+          "note": "梨在墨白處只餘幾點筆痕；據可見及同篇地名暫讀，仍標疑。"
+        },
+        {
+          "side": "single",
+          "column": 4,
+          "context": "羅士啤",
+          "candidates": [
+            "羅士啤",
+            "羅十啤"
+          ],
+          "note": "地名音譯中第二字橫線數量難判。"
+        }
+      ],
+      "observations": "第七版《本洲新聞》頂段左端六欄，末欄「列度」接本版下一橫段右端第一欄「啤防疫醫院云」，兩區共七欄。下一題水手案另起。與本期另一則同述加立頓與雪梨，兩篇相互關係宜交代。",
+      "canvas_id": "https://trove.nla.gov.au/newspaper/page/24101368",
+      "catalogue_page": 7,
+      "image_url": "https://trove.nla.gov.au/ndp/imageservice/nla.news-page24101368/level5",
+      "sha256": "8362876b5a10e0180fa6c7685bdf1c4d528f93665948672f1819ea741809b91e",
+      "label": "1925-11-28 第7版",
+      "dimensions": [
+        2780,
+        3471
+      ],
+      "article_extent": [
+        961,
+        188,
+        2653,
+        1098
+      ],
+      "article_regions": [
+        [
+          961,
+          188,
+          1275,
+          638
+        ],
+        [
+          2561,
+          639,
+          2653,
+          1098
+        ]
+      ],
+      "content_role": "complete-article",
+      "state": "transcribed"
+    }
+  ]
+}
